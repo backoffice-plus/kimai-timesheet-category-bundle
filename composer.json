@@ -1,5 +1,5 @@
 {
-    "name": "boplus/timesheet-category-bundle",
+    "name": "boplus/kimai-timesheet-category-bundle",
     "description": "add category to timesheet",
     "homepage": "https://www.kimai.org/",
     "type": "kimai-plugin",
